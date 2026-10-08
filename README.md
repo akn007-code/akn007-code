@@ -20,7 +20,7 @@ A banking analytics project analysing **3,000 client accounts** to identify wher
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy and Power BI.
 
-[View Project](./Bank_Client_Portfolio_Risk_Analytics.ipynb)
+[View Project](./https://github.com/akn007-code/Bank_Client_Portfolio_Risk_Analytics)
 
 ### 📈 AI Powered Stock Evaluation Model
 
